@@ -1,0 +1,14 @@
+{
+  "name": "3enraya",
+  "version": "0.0.1",
+  "author": "Rio Balseiro IG:@RioBalseiro ",
+  "dependencies": {
+    "express": "4.19.x",
+    "node": "^18.20.3",
+    "sanitizer": "^0.1.3",
+    "socket.io": ">=4.7.5"
+  },
+  "engines": {
+    "node": ">=0.10.x"
+  }
+}
